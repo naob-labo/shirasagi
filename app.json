@@ -1,0 +1,13 @@
+{
+  "repository": "https://github.com/naob-labo/shirasagi",
+  "env": {
+    "secret_key_base": {
+      "description": "A secret key for verifying the integrity of signed cookies.",
+      "generator": "secret"
+    },
+    "secret_token": {
+      "description": "A secret key for verifying the integrity of signed cookies.",
+      "generator": "secret"
+    }
+  }
+}

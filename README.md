@@ -158,3 +158,6 @@ ANALYZE_COVERAGE=disabled
 
 - [グループウェアの始め方](http://shirasagi.github.io/start/gws.html)
 - [ウェブメールの始め方](http://shirasagi.github.io/start/webmail.html)
+
+
+[![Heroku Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/naob-labo/shirasagi)

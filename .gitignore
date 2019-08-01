@@ -5,12 +5,6 @@
 /.project
 /.ruby-version
 
-/config/*.yml
-/config/after_initializers
-/config/commands
-/config/environments
-/config/unicorn.rb
-/config/nginx.conf
 /coverage
 /file
 /log

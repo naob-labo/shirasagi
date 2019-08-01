@@ -6,8 +6,7 @@ production:
   clients:
     default:
       database: ss
-      uri:
-        - ds157857.mlab.com:57857
+      uri: <%= ENV['MONGODB_URI'] %> 
 
 test:
   clients:

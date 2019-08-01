@@ -6,8 +6,8 @@ production:
   clients:
     default:
       database: ss
-      hosts:
-        - localhost:27017
+      uri:
+        - ds157857.mlab.com:57857
 
 test:
   clients:

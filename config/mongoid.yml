@@ -5,7 +5,7 @@
 production:
   clients:
     default:
-      database: ss
+#      database: ss
       uri: <%= ENV['MONGODB_URI'] %> 
 
 test:
